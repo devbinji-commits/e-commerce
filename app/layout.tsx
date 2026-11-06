@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Mira Market',
+  title: 'DevBox',
   description: 'Marketplace de vente en ligne inspirée d’un modèle B2B/B2C moderne.',
 };
 

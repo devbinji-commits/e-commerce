@@ -29,10 +29,10 @@ export default function HomePage() {
     <main className="page-shell">
       <header className="topbar">
         <div className="brand-block">
-          <div className="brand-mark">M</div>
+          <div className="brand-mark">D</div>
           <div>
             <p className="eyebrow">Marketplace</p>
-            <h1>Mira Market</h1>
+            <h1>DevBox</h1>
           </div>
         </div>
 
